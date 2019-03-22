@@ -1,5 +1,5 @@
 {
-  "name": "kamilsk/cilex-service-providers",
+  "name": "qwep-ru/cilex-service-providers",
   "license": "MIT",
   "require": {
     "php": "^7.0",
@@ -12,19 +12,12 @@
       "OctoLab\\Cilex\\": "src/"
     }
   },
-  "homepage": "https://github.com/kamilsk/CilexServiceProviders",
+  "homepage": "https://github.com/qwep-ru/CilexServiceProviders",
   "autoload-dev": {
     "psr-4": {
       "OctoLab\\Cilex\\": "tests/"
     }
   },
-  "authors": [
-    {
-      "role": "lead",
-      "name": "Kamil Samigullin",
-      "email": "kamil@samigullin.info"
-    }
-  ],
   "keywords": [
     "cli",
     "cilex"
@@ -38,5 +31,5 @@
     "symfony/yaml": "~3.0"
   },
   "type": "library",
-  "description": "Revised set of service providers for Cilex."
+  "description": "Fork of kamilsk/cilex-service-providers"
 }
