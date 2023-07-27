@@ -2,7 +2,7 @@
   "name": "qwep-ru/cilex-service-providers",
   "license": "MIT",
   "require": {
-    "php": "^7.0",
+    "php": "^8.0",
     "cilex/cilex": "^1.0",
     "kamilsk/common": "^4.0",
     "kamilsk/kilex": "^3.0"
@@ -23,7 +23,7 @@
     "cilex"
   ],
   "require-dev": {
-    "doctrine/migrations": "~1.0",
+    "doctrine/migrations": "~3.0",
     "php-school/cli-menu": "~1.0",
     "symfony/config": "~3.0",
     "symfony/event-dispatcher": "~3.0",
