@@ -1,5 +1,5 @@
 {
-  "name": "qwep-ru/cilex-service-providers",
+  "name": "gorshkov-ilya-qwep/cilex-service-providers",
   "license": "MIT",
   "require": {
     "php": "^8.0",
@@ -12,7 +12,7 @@
       "OctoLab\\Cilex\\": "src/"
     }
   },
-  "homepage": "https://github.com/qwep-ru/CilexServiceProviders",
+  "homepage": "https://github.com/gorshkov-ilya-qwep/CilexServiceProviders/tree/v8.0",
   "autoload-dev": {
     "psr-4": {
       "OctoLab\\Cilex\\": "tests/"
