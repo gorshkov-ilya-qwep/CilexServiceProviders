@@ -29,5 +29,5 @@
     "symfony/yaml": "~3.0"
   },
   "type": "library",
-  "description": "Fork of kamilsk/cilex-service-providers"
+  "description": "Test fork of kamilsk/cilex-service-providers"
 }
