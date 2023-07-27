@@ -12,7 +12,7 @@
       "OctoLab\\Cilex\\": "src/"
     }
   },
-  "homepage": "https://github.com/gorshkov-ilya-qwep/CilexServiceProviders/tree/v8.0",
+  "homepage": "https://github.com/gorshkov-ilya-qwep/CilexServiceProviders",
   "autoload-dev": {
     "psr-4": {
       "OctoLab\\Cilex\\": "tests/"
